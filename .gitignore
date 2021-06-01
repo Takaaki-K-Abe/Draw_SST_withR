@@ -1,0 +1,18 @@
+# === MacOS ========
+*.DS_Store
+*~$*
+*ffs_gui
+# === R ========
+*.Rproj.user*
+*.Rdata*
+*.Rhistory*
+*.knit*
+*.utf8*
+*.nc
+.Rproj.user
+
+*.eps
+*.png
+*.gif
+*.ai
+*miscs/*
