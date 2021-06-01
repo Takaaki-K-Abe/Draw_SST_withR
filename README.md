@@ -1,5 +1,8 @@
 # SSTの描写
 
+1. Sea surface temperature (SST) が格納されているnetCDFファイルのダウンロードから図の出力までを行う。
+2. また、`Imagemagick`を使ってSSTがどのように変化していくのかを動画で示す。
+
 ## 使用データ
 
 - SSTのデータはNOAAのOISSTを使用するが、データのダウンロードは`DrawSST_2019_10.R`を実行すれば開始するようになっている。
